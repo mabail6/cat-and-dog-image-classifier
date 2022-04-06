@@ -24,4 +24,4 @@ The purpose of this project is to classify images of dogs and cats using Tensorf
 ## Project Description
 
 ## Featured Notebooks/Analysis/Deliverables
-* [chicago_crime_data_project.ipynb](https://github.com/mabail6/cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb)
+* [cat_vs_dog.ipynb](https://github.com/mabail6/cat-and-dog-image-classifier/blob/master/cat_vs_dog.ipynb)
