@@ -21,7 +21,5 @@ The purpose of this project is to classify images of dogs and cats using Tensorf
 * Github
 * OS
 
-## Project Description
-
 ## Featured Notebooks/Analysis/Deliverables
 * [cat_vs_dog.ipynb](https://github.com/mabail6/cat-and-dog-image-classifier/blob/master/cat_vs_dog.ipynb)
